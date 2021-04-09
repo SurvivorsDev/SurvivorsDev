@@ -1,4 +1,10 @@
-### Hi there 👋
+## SurvivorsDev 👋
+
+### Contact Me
+- Discord: SurvivorsDev#6040
+
+### My Stats
+![My github stats](https://github-readme-stats.vercel.app/api?username=SurvivorsDev&show_icons=true&hide_border=true)
 
 <!--
 **SurvivorsDev/SurvivorsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
